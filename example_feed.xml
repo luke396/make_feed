@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Example Reading List</title>
+        <link>https://example.com/feed.xml</link>
+        <description>An example RSS feed generated from Notion</description>
+        <atom:link href="https://example.com/feed.xml" rel="self" />
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <generator>python-feedgen</generator>
+        <language>en</language>
+        <lastBuildDate>Sat, 28 Jun 2025 05:11:20 +0000</lastBuildDate>
+        <item>
+            <title>Mind_Sweep_Trigger_List.pdf</title>
+            <link>
+                https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf</link>
+            <description>&lt;p&gt;&lt;strong&gt;Comments:&lt;/strong&gt; Used for learn how to
+                record and plan tasks&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Tags:&lt;/strong&gt;
+                infomation, life&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;
+                Plan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Added:&lt;/strong&gt; 2025-06-27 11:34:00
+                UTC&lt;/p&gt;</description>
+            <guid isPermaLink="false">
+                https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf</guid>
+            <pubDate>Fri, 27 Jun 2025 11:34:00 +0000</pubDate>
+        </item>
+        <item>
+            <title>为什么「躺平」在经济学上可能是理性选择？ - 知乎</title>
+            <link>https://www.zhihu.com/question/1918751450256871450/answer/1922261227440145223</link>
+            <description>&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt;
+                Plan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Added:&lt;/strong&gt; 2025-06-28 04:05:00
+                UTC&lt;/p&gt;</description>
+            <guid isPermaLink="false">
+                https://www.zhihu.com/question/1918751450256871450/answer/1922261227440145223</guid>
+            <pubDate>Sat, 28 Jun 2025 04:05:00 +0000</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -204,7 +204,7 @@ Set up a cron job to update RSS feed every hour:
 crontab -e
 
 # Add the following line (update every hour)
-0 * * * * cd /path/to/make-feed && ./update_feed.sh /var/www/html >/dev/null 2>&1
+0 * * * * cd /path/to/make_feed && ./update_feed.sh /var/www/html >/dev/null 2>&1
 ```
 
 ## Output
